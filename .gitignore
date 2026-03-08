@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+.env.local
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Vector Store / RAG Data
+vector_store/
+
+# Memory Database
+memory/*.db
+
+# Streamlit
+.streamlit/
+
+# Temporary / Log files
+*.log
+install_log.txt
+whisper_error.txt
+test_whisper.py
+run.ps1
+.DS_Store
