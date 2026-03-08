@@ -2,6 +2,8 @@
 
 A production-ready AI application capable of solving JEE-style math problems using RAG, Multi-Agent Reasoning (LangGraph), Human-in-the-loop (HITL), and long-term memory.
 
+🚀 **Deployed Application:** [https://math-mentor-dla7pq8bxhfzebpmp4j5pt-veeky.streamlit.app/](https://math-mentor-dla7pq8bxhfzebpmp4j5pt-veeky.streamlit.app/)
+📺 **Demo Video:** [https://youtu.be/2KW9Usy9wiI](https://youtu.be/2KW9Usy9wiI)
 ## Architecture Diagram
 
 ```mermaid
